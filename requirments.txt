@@ -1,0 +1,7 @@
+asgiref @ file:///work/ci_py311/asgiref_1676843199969/work
+certifi @ file:///work/ci_py311/certifi_1676822443922/work/certifi
+Django @ file:///work/ci_py311/django_1676851927387/work
+djangorestframework==3.14.0
+psycopg2-binary==2.9.5
+pytz==2022.7.1
+sqlparse @ file:///work/ci_py311/sqlparse_1676828845822/work
